@@ -5,4 +5,3 @@ class Animal:
     nombre:str
     tipo:str
 
-3
